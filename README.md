@@ -30,6 +30,7 @@ Centos 8: 4.18.0-147.5.1.el8_1.x86_64
 
 
 استفاده و نصب :
+
 1 apt-get update -y
 
 2 apt-get install php -y
